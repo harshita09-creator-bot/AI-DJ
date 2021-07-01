@@ -1,0 +1,37 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+}
+
+.subtitle{
+    font-size: 15px;
+    color: black;
+}
+
+.speed_columun{
+    float: left;
+}
+
+.volume_columun{
+    float: right;
+}
+
+.img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.button{
+    font-size: 18px;
+}
+
+.play{
+    font-size: 20px;
+}
+
+canvas{
+    border-radius: 15px;
+    border: 10px solid white;
+    box-shadow: 10px 10px 10px lightslategray;
+}
